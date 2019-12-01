@@ -44,4 +44,6 @@ public class Album {
         System.out.println( "This album does not have a track " + trackNumber );
         return false;
     }
+
+    //Check if this class is finished
 }
